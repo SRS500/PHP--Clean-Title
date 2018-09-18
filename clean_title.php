@@ -11,4 +11,5 @@ function cleanTitle($str) {
     $str = strtolower($str);
     return $str;
 }
+$getclean_title=cleanTitle('Make this title@ clean[]');
 
